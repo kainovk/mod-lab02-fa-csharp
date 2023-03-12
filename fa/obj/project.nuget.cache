@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8kf7TqrVRL5lalEsWSY8RkAkJdbfcge5T7LPecdSDwPefkLrWAbUYluzYY3EkQiv7q1wSBzhBi5EMoL6xNxLvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lolim\\source\\repos\\mod-lab02-fa-csharp\\fa\\fa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lolim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lolim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
